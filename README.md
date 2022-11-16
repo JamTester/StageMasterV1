@@ -18,7 +18,7 @@ Future Features:
 * Will cleanup all files dropped.
 * HIDE THE DAMN POPUPS
 
-Demonstration 
+Demonstration:
 ![](https://github.com/JamTester/StageMaster/blob/main/demonstration.gif)
 
 
