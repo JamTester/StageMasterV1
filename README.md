@@ -16,6 +16,7 @@ Future Features
         
 * Request will look like it is from the display driver.
 * Will cleanup all files dropped.
+* HIDE THE DAMN POPUPS
 
 Problems:
 * Doesn't work in a VM. (I have no idea why)
