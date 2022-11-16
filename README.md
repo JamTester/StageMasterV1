@@ -12,7 +12,7 @@ Features:
 * Cleans up most files dropped.
 
    
-Future Features
+Future Features:
         
 * Request will look like it is from the display driver.
 * Will cleanup all files dropped.
