@@ -1,5 +1,6 @@
 # StageMaster: A forced UAC POC.
 
+This has now been archived and a python version is being developed as it is a superior language.
 THIS IS NOT A UAC BYPASS.
 
 This forces the user to accept a UAC Prompt.
